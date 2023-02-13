@@ -1,7 +1,7 @@
 # Todo list with javasciprt
 
-
-todo list final use in file index.html and script.js
+how to used :
+todo list final use in file index.html and logis.js
 
 
 follow me to know more : @dexalius
